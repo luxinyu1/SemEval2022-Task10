@@ -1,0 +1,1 @@
+Step 3: bert-large-uncased is used for prediction. Because it has highest f1 0.7168030675130294 in evaluation.

@@ -1,0 +1,1 @@
+python ./src/GTS/prepare_data_for_QA_task.py --prepare_for_training

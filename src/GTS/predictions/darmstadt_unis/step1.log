@@ -1,0 +1,1 @@
+Step 1: ernie_2.0_skep_large_en_pytorch is used for prediction. Because it has highest triplet f1 0.4174759344652458 in evaluation.
